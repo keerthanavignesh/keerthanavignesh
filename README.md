@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Keerthana Vignesh</h1>
-<h3 align="center">A passionate DevOps from Guadalajara</h3>
+<h1 align="center">Hi 👋, I'm Keerthana Selvam</h1>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Devops Project From Scratch**
+- 🔭 I’m currently working on ** Azure Devops Project **
 
 - 🌱 I’m currently learning **DevOps**
 
