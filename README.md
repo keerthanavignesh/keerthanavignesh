@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keerthana Selvam</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🔭 I’m currently working on ** Azure Devops Project **
+- 🔭 I’m currently working on ** AWS Devops Project **
 
 - 🌱 I’m currently learning **DevOps**
 
